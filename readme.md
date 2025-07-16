@@ -33,9 +33,9 @@ O **Dataset Iris** é um conjunto de dados clássico que contém:
 ## 📁 Estrutura do Projeto
 
 ```
-agenda_06/
+knn_vs_svm/
 ├── .venv/                    # Ambiente virtual
-├── agenda_06.py              # Código principal
+├── knn_vs_svm.py             # Código principal
 ├── requirements.txt          # Dependências
 └── README.md                 # Este arquivo
 ```
@@ -46,7 +46,7 @@ agenda_06/
 
 ```bash
 # Navegar até a pasta do projeto
-cd "agenda_06"
+cd "knn_vs_svm"
 ```
 
 ### 2. Configurar Ambiente Virtual
@@ -79,7 +79,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ### 4. Executar o Código
 
 ```bash
-python agenda_06.py
+python knn_vs_svm.py
 ```
 
 ### 5. Desativar Ambiente Virtual
