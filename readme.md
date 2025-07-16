@@ -33,11 +33,10 @@ O **Dataset Iris** é um conjunto de dados clássico que contém:
 ## 📁 Estrutura do Projeto
 
 ```
-knn_vs_svm/
-├── .venv/                    # Ambiente virtual
-├── knn_vs_svm.py             # Código principal
-├── requirements.txt          # Dependências
-└── README.md                 # Este arquivo
+.venv/                    # Ambiente virtual
+knn_vs_svm.py             # Código principal
+requirements.txt          # Dependências
+README.md                 # Este arquivo
 ```
 
 ## 🚀 Como Executar
