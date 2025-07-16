@@ -203,6 +203,7 @@ Este projeto demonstra:
 
 ## 👨‍🎓 Autor
 
+**Aluna**: Analice Leite
 **Disciplina**: Inteligência Artificial  
 **Atividade**: Agenda 06 - Classificação com KNN e SVM  
 **Valor**: 20% da Média Final
