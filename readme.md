@@ -33,7 +33,6 @@ O **Dataset Iris** é um conjunto de dados clássico que contém:
 ## 📁 Estrutura do Projeto
 
 ```
-.venv/                    # Ambiente virtual
 knn_vs_svm.py             # Código principal
 requirements.txt          # Dependências
 README.md                 # Este arquivo
@@ -52,6 +51,9 @@ cd "knn_vs_svm"
 
 **Windows (PowerShell):**
 ```powershell
+# Criar ambiente virtual
+py -m venv venv
+
 # Ativar ambiente virtual
 .venv\Scripts\activate
 
